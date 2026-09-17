@@ -1,0 +1,4 @@
+privado/
+*.envios.html
+lista*.json
+node_modules/
